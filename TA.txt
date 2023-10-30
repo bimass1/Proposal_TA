@@ -1,1 +1,17 @@
 judul: membuat game open world dengan unreal engine
+cover: logo unitomo
+latar belakang: Pengembangan game telah menjadi industri yang terus berkembang pesat selama
+beberapa dekade terakhir. Pertumbuhan teknologi dan perangkat keras yang
+semakin canggih telah memungkinkan pengembang untuk menciptakan pengalaman
+game yang semakin realistis dan menarik. Salah satu tren utama dalam
+pengembangan game adalah genre "open world" di mana pemain dapat menjelajahi
+lingkungan game dalam skala yang besar dengan kebebasan untuk memilih
+jalannya sendiri. Unreal Engine adalah mesin pengembangan game yang sangat
+populer dan kuat yang dikembangkan oleh Epic Games. Dikenal karena
+kemampuannya dalam menciptakan grafika dan animasi berkualitas tinggi, Unreal
+Engine telah menjadi pilihan utama bagi banyak pengembang game profesional.
+Penelitian ini bertujuan untuk mengkaji proses pengembangan game open world
+menggunakan Unreal Engine. Hal ini penting karena pengembangan game open
+world melibatkan sejumlah tantangan khusus, termasuk desain dunia yang terbuka,
+manajemen sumber daya, optimisasi kinerja, dan implementasi mekanika gameplay
+yang kompleks.
