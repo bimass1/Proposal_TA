@@ -15,3 +15,26 @@ menggunakan Unreal Engine. Hal ini penting karena pengembangan game open
 world melibatkan sejumlah tantangan khusus, termasuk desain dunia yang terbuka,
 manajemen sumber daya, optimisasi kinerja, dan implementasi mekanika gameplay
 yang kompleks.
+
+ruang lingkup penelitian: Mengidentifikasi Tantangan Utama dalam Pengembangan Game Open World: Tujuan utama
+dari penelitian ini adalah untuk mengidentifikasi dan menganalisis tantangan utama yang
+dihadapi dalam pengembangan game open world menggunakan Unreal Engine. Dengan
+memahami tantangan ini, pengembang akan dapat mengambil langkah-langkah konkret
+untuk mengatasi mereka selama proses pengembangan.
+2. Mengembangkan Metode Desain Efektif untuk Lingkungan Open World: Salah satu tujuan
+kunci adalah mengembangkan metodologi desain yang efektif untuk menciptakan
+lingkungan open world yang menarik dan realistis. Hal ini termasuk pemilihan peta,
+pengelompokan area, dan pembangunan elemen lingkungan seperti tanah, air, dan vegetasi.
+3. Meningkatkan Kinerja dan Optimisasi Game: Kinerja adalah faktor kunci dalam pengalaman
+bermain game. Tujuan dari penelitian ini adalah untuk mengeksplorasi teknik dan strategi
+optimisasi untuk memastikan bahwa game open world dapat berjalan dengan lancar tanpa
+stuttering atau penurunan framerate yang mengganggu.
+4. Memahami Integrasi Mekanika Gameplay: Game open world seringkali memiliki sejumlah
+mekanika gameplay yang kompleks, seperti sistem penjelajahan, sistem interaksi dengan
+NPC, dan mekanika pertarungan. Tujuan dari penelitian ini adalah untuk mengidentifikasi
+cara terbaik untuk mengintegrasikan dan menyinkronkan mekanika ini dalam konteks
+lingkungan open world.
+5. Meningkatkan Pengalaman Pemain dalam Game Open World: Tujuan akhir dari penelitian ini
+adalah untuk meningkatkan pengalaman pemain dalam game open world. Ini termasuk
+memastikan bahwa pemain merasa terlibat dalam dunia yang diciptakan, memiliki
+kebebasan untuk menjelajahi, dan terlibat dalam cerita game dengan cara yang mendalam.
